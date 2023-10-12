@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "hexo-butterfly-tag-plugins-plus": "^1.0.17",
+    "hexo-renderer-kramed": "^0.1.4"
+  }
+}
